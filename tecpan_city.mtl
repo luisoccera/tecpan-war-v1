@@ -1,0 +1,60 @@
+# Tecpan War Materials
+newmtl Mat_Terrain
+Kd 0.18 0.25 0.15
+Ka 0.05 0.05 0.05
+
+newmtl Mat_Asphalt
+Kd 0.15 0.15 0.16
+Ka 0.05 0.05 0.05
+
+newmtl Mat_Sidewalk
+Kd 0.55 0.55 0.53
+Ka 0.1 0.1 0.1
+
+newmtl Mat_Curb
+Kd 0.40 0.40 0.40
+Ka 0.1 0.1 0.1
+
+newmtl Mat_House_White
+Kd 0.88 0.86 0.82
+Ka 0.2 0.2 0.2
+
+newmtl Mat_House_Yellow
+Kd 0.92 0.78 0.38
+Ka 0.2 0.2 0.2
+
+newmtl Mat_House_Terracotta
+Kd 0.78 0.42 0.28
+Ka 0.2 0.2 0.2
+
+newmtl Mat_House_Blue
+Kd 0.45 0.65 0.78
+Ka 0.2 0.2 0.2
+
+newmtl Mat_House_Green
+Kd 0.52 0.70 0.52
+Ka 0.2 0.2 0.2
+
+newmtl Mat_Roof_Concrete
+Kd 0.45 0.45 0.47
+Ka 0.1 0.1 0.1
+
+newmtl Mat_Tinaco_Black
+Kd 0.12 0.12 0.14
+Ka 0.05 0.05 0.05
+
+newmtl Mat_Church_Stone
+Kd 0.82 0.75 0.62
+Ka 0.2 0.2 0.2
+
+newmtl Mat_Church_Roof
+Kd 0.65 0.30 0.20
+Ka 0.1 0.1 0.1
+
+newmtl Mat_Market_Sheet
+Kd 0.60 0.62 0.65
+Ka 0.1 0.1 0.1
+
+newmtl Mat_Kiosk_Wood
+Kd 0.45 0.28 0.15
+Ka 0.1 0.1 0.1
